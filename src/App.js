@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'/manifest.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -34,7 +34,7 @@ class App extends Component {
       }.bind(this),
       error: function(xhr, status, err){
         console.log(err);
-        // alert(err);
+        alert(err);
       }
     });
   }
