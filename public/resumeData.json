@@ -19,70 +19,74 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/thoeurnkosalitc",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/thoeurn-kosal/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/thoeurn_kosal/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/ThoeurnKosal",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Institute of Technology of Cambodia",
+        "degree":"Bachelor's degree of Information and Communication Engineering",
+        "graduated":"2013-2018",
+        "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Chin Lean Hanchey High School",
+        "degree":"BaccII",
+        "graduated":"2007-2013",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Wing Cambodia",
+        "title":"System Developer",
+        "years":"June 2020 - Present",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Inbiznest Plc",
+        "title":"System Developer",
+        "years":"June 2019 - June 2020",
+        "description":""
+      },
+      {
+        "company":"Udaya Technology",
+        "title":"System Developer",
+        "years":"Setember 2018 - June 2020",
+        "description":""
+      },
+      {
+        "company":"Cambodia Securities Exchange (CSX)",
+        "title":"System Developer Intern",
+        "years":"February 2018 - June 2018",
+        "description":""
+      },
+      {
+        "company":"Udaya Technology",
+        "title":"Web Developer Intern",
+        "years":"July 2018 - October 2018",
+        "description":""
       }
+
     ],
     "skills":[
       {
@@ -90,29 +94,58 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"Java Script",
+        "level":"70%"
       },
       {
         "name":"ReactJs",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Laravel",
+        "level":"60%"
       },
       {
-        "name":"HTML5",
+        "name":"Node Js",
+        "level":"70%"
+      },
+      {
+        "name":"Spring",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Oracle",
+        "level":"70%"
       },
       {
-        "name":"MongoDB",
+        "name":"MySQL",
         "level":"80%"
+      },
+      {
+        "name":"SQL Server",
+        "level":"70%"
+      },
+      {
+        "name":"Figma",
+        "level":"60%"
       }
+      
     ]
   },
   "portfolio":{
