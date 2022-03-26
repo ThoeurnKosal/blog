@@ -1,0 +1,43 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-eec87b46525379af865f.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.18be1ebaf4d70b505523.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-9411612e31e4f14527d1.js
+  Cache-Control: public, max-age=31536000, immutable
+/29107295-ad9cfc8b7b149bb722c2.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-jsx-8e88a3fa3c1f4838a9fc.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-fa89704f0c8daf7ebe91.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-256fdde5199f9087be1b.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-29d6ea114d473f8ca9e6.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-fa89704f0c8daf7ebe91.js>; rel=preload; as=script
+  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
+  Link: </app-29d6ea114d473f8ca9e6.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-eec87b46525379af865f.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/
+  Link: </webpack-runtime-fa89704f0c8daf7ebe91.js>; rel=preload; as=script
+  Link: </framework-256fdde5199f9087be1b.js>; rel=preload; as=script
+  Link: </app-29d6ea114d473f8ca9e6.js>; rel=preload; as=script
+  Link: </styles-9411612e31e4f14527d1.js>; rel=preload; as=script
+  Link: </29107295-ad9cfc8b7b149bb722c2.js>; rel=preload; as=script
+  Link: </component---src-pages-index-jsx-8e88a3fa3c1f4838a9fc.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
